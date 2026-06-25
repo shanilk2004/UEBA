@@ -2,8 +2,10 @@ data/raw/
 data/processed/
 *.parquet
 *.csv
+*.db
 
 models/*.pkl
 
 .vscode/
 .idea/
+view_data.py
