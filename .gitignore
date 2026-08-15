@@ -1,5 +1,4 @@
-data/raw/
-data/processed/
+data/
 *.parquet
 *.csv
 *.db
@@ -9,3 +8,5 @@ models/*.pkl
 .vscode/
 .idea/
 view_data.py
+venv/
+__pycache__/
